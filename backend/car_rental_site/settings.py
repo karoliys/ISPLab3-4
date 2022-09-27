@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'customer.apps.CustomerConfig',
     'owner',
     'car',
+    'car_rent',
 ]
 
 MIDDLEWARE = [
