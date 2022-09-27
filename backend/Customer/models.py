@@ -2,7 +2,7 @@ from django.db import models
 from django.forms import CharField
 
 
-class Customer(models.Model):
+class customer(models.Model):
     customer_fname = models.CharField(
         max_length=30, verbose_name='First name', null=False
     )
