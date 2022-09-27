@@ -4,15 +4,17 @@
     <list default="true" id="a5f85efb-8539-484b-ab5c-256fecd3ae0c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/backend/Car/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Car/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Car/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Car/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Car/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Car/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Car_Type/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Car_Type/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Car_Type/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Car_Type/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Customer/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Customer/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Customer/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Customer/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Customer/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Customer/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Customer/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Customer/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Customer/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Customer/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Owner/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Owner/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/Owner/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Owner/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/car_rental_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/car_rental_site/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/car_rental_site/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/car_rental_site/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Owner/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/Owner/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/car_rent/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/car_rent/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664277527520</updated>
-      <workItem from="1664277528795" duration="1076000" />
+      <workItem from="1664277528795" duration="1774000" />
     </task>
     <servers />
   </component>
